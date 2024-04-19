@@ -19,7 +19,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
