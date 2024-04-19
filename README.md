@@ -19,6 +19,16 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)-->
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FreddyMurillo23">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreddyMurillo23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreddyMurillo23&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ## Proyectos
 <table>
 <tr>
@@ -98,14 +108,6 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/FreddyMurillo23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreddyMurillo23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreddyMurillo23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <!--
 **FreddyMurillo23/FreddyMurillo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
