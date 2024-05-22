@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Go Player App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="https://play-lh.googleusercontent.com/_cIBJCAtNdVRCxyb7qheHtGSFhVFE-qXD4TH_QJXOYRfUNQeBtLcKf5Fx7fo5U5E1A=w240-h480" width="400" alt="GoPlayer"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
 <img src="/Playstore.png" height= 35 width=100>
@@ -43,7 +43,7 @@
 <img src="/Appstore.png"height= 35 width=100>
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>GoPlayer is an innovative application designed to manage soccer leagues and view matches easily and efficiently. With <strong>GoPlayer</strong></p>, users can <strong>create and manage leagues, schedule matches, record results, and access real-time statistics. </strong></p>The user-friendly interface allows fans to follow their favorite teams and enjoy the excitement of soccer anytime, anywhere. <strong></strong></p>
 </div>
                                                                                       
 </td>
