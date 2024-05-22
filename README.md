@@ -37,7 +37,7 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
-<img src="https://lacountylibrary.org/wp-content/uploads/2018/05/app-store-badge-google.png">
+<img src="https://lacountylibrary.org/wp-content/uploads/2018/05/app-store-badge-google.png" width=200>
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zk5xirYb8xODJH6XFSaus5krtWDZh1dWdwLfkMTQ&s">
