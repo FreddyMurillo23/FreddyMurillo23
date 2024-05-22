@@ -37,10 +37,10 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
-<img src="https://lacountylibrary.org/wp-content/uploads/2018/05/app-store-badge-google.png" width=200>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/get-it-on-google-play-logo.png" width=100>
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zk5xirYb8xODJH6XFSaus5krtWDZh1dWdwLfkMTQ&s" width=200>
+<img src="https://www.kcrw.com/app-page-images/badge-app-store.png/image" width=100>
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
