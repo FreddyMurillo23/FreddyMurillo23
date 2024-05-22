@@ -40,7 +40,7 @@
 <img src="https://lacountylibrary.org/wp-content/uploads/2018/05/app-store-badge-google.png" width=200>
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zk5xirYb8xODJH6XFSaus5krtWDZh1dWdwLfkMTQ&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zk5xirYb8xODJH6XFSaus5krtWDZh1dWdwLfkMTQ&s" width=200>
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
