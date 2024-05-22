@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">FreddyMurillo (GrougalQatal)</a> 👋</h1>
+<h1 align="center">Hi, Im <a href="https://aristi.dev">FreddyMurillo (GrougalQatal)</a> 👋</h1>
 </div>
 <img src="https://redwerk.com/wp-content/uploads/2019/10/f-image.png">
 
@@ -12,6 +12,7 @@
 
 - ⭐ Computer Science Engineer ⭐ 
 - 📲 FrontEnd developer (flutter Enthusiast - web and mobile)
+- ✏️ Project Manager in progress. Studying on the [OBS Business School](https://www.obsbusiness.school/en/)
 <!--##- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
@@ -28,7 +29,7 @@
 </p>
 
 
-## Proyectos
+## Projects
 <table>
 <tr>
 <td width="50%">
