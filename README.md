@@ -11,7 +11,7 @@
 ## Sobre mi
 
 - ⭐ Computer Science Engineer ⭐ 
-- 📲 FrontEnd developer (Flutter web and mobile)
+- 📲 FrontEnd developer (flutter Enthusiast - web and mobile)
 <!--##- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
@@ -36,8 +36,8 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
+<img src="https://w7.pngwing.com/pngs/410/477/png-transparent-get-it-on-google-play-button-thumbnail.png">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
