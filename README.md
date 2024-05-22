@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/FreddyMurillo23?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## About me
 
 - ⭐ Computer Science Engineer ⭐ 
 - 📲 FrontEnd developer (flutter Enthusiast - web and mobile)
@@ -37,7 +37,7 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
-<img src="https://w7.pngwing.com/pngs/410/477/png-transparent-get-it-on-google-play-button-thumbnail.png">
+<img src="https://lacountylibrary.org/wp-content/uploads/2018/05/app-store-badge-google.png">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
