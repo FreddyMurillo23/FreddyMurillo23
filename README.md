@@ -37,10 +37,10 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
-<img src="https://brandslogos.com/wp-content/uploads/images/large/get-it-on-google-play-logo.png" height= 50 width=100>
+<img src="/Playstore.png" height= 50 width=100>
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://www.kcrw.com/app-page-images/badge-app-store.png/image"height= 50 width=100>
+<a href="https://apps.apple.com/ec/app/goplayer/id6496434260" target="_blank">
+<img src="/Appstore.png"height= 50 width=100>
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -49,7 +49,7 @@
 </td>
 
 <td width="50%">
-               <br>
+<br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
