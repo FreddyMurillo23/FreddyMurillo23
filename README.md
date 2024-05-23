@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Go Player App</h3>
 <div align="center">
-<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="img/goplayer.png" width="400" alt="GoPlayer"></a> 
+<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="img/Go player 2.0.jpg" width="400" alt="GoPlayer"></a> 
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
