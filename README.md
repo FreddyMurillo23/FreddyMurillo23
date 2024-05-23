@@ -1,12 +1,11 @@
 <div align="center">
 <h1 align="center">Hi, Im <a href="https://aristi.dev">FreddyMurillo (GrougalQatal)</a> 👋</h1>
 </div>
-<img src="https://redwerk.com/wp-content/uploads/2019/10/f-image.png">
+<img src="img/baner principal grougalqatal.png">
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)-->
 <!--[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)-->
-[![GitHub followers](https://img.shields.io/github/followers/FreddyMurillo23?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![GitHub followers](https://img.shields.io/github/followers/FreddyMurillo23?style=social)](https://github.com/FreddyMurillo23)
 
 ## About me
 
@@ -35,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Go Player App</h3>
 <div align="center">
-<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="https://play-lh.googleusercontent.com/_cIBJCAtNdVRCxyb7qheHtGSFhVFE-qXD4TH_QJXOYRfUNQeBtLcKf5Fx7fo5U5E1A=w240-h480" width="400" alt="GoPlayer"></a> 
+<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="img/goplayer.png" width="400" alt="GoPlayer"></a> 
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
