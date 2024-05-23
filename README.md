@@ -45,7 +45,7 @@
 <img src="/Appstore.png"height= 35 width=100>
 </a>
 </p>
-<p>GoPlayer is an innovative application designed to manage soccer leagues and view matches easily and efficiently. With <strong>GoPlayer</strong>, users can <strong>create and manage leagues, schedule matches, record results, and access real-time statistics. </strong> The user-friendly interface allows fans to follow their favorite teams and enjoy the excitement of soccer anytime, anywhere.</p>
+<p>GoPlayer is an innovative application designed to manage soccer leagues and view matches easily and efficiently. With <strong>GoPlayer</strong>, users can <strong>create and manage leagues, schedule matches, record results, and access real-time statistics. </strong></p>
 </div>
                                                                                       
 </td>
