@@ -53,14 +53,14 @@
 <br>
 <h3 align="center">Partiir Marketplace App</h3>
 <div align="center">                                       
-<a href="https://partiir.com/es/tiendas-virtuales-ecommerce/" target="_blank"><img src="img/partiir.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://partiir.com/es/inicio/" target="_blank"><img src="img/partiir.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.partiir.partiir_entrega_app&hl=es_AR&gl=US" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-b92f16?style=for-the-badge&logo=github&logoColor=white">
+<img src="/Playstore.png">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://partiir.com/es/tiendas-virtuales-ecommerce/" target="_blank">
+<img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
