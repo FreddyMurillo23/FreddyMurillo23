@@ -74,16 +74,13 @@
 <td width="50%">
 <h3 align="center">Health Dashboard</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/FreddyMurillo23/dashboard" target="_blank"><img src="img/goplayer.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/FreddyMurillo23/dashboard" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-A4250E?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Health Dashboard is a comprehensive application designed to track, analyze, and display health data for populations. By aggregating data from various sources, it provides insightful analytics and visualizations to help understand health trends and outcomes.</p>
 </div>
                                                                                       
 </td>       
@@ -91,16 +88,13 @@
 <td width="50%">
 <h3 align="center">DentCloud App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank"><img src="img/Go player 2.0.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-A4250E?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Dentcloud is an advanced application designed to manage dental appointments, patient records, medical prescriptions, and publications from dental centers.</p>
 </div>
                                                                                       
 </td>  
