@@ -11,7 +11,8 @@
 
 - ⭐ Computer Science Engineer ⭐ 
 - 📲 FrontEnd developer (flutter Enthusiast - web and mobile)
-- ✏️ Project Manager in progress. Studying on the [OBS Business School](https://www.obsbusiness.school/en/)
+- 📗 Project Manager in progress. Studying on the [OBS Business School](https://www.obsbusiness.school/en/)
+- ✏️ Im seeking to enhance my skills and learn [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 <!--##- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
