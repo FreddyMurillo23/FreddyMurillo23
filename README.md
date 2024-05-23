@@ -78,7 +78,7 @@
 <a href="https://github.com/FreddyMurillo23/dashboard" target="_blank"><img src="img/goplayer.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/FreddyMurillo23/dashboard" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-A4250E?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-A4250E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Health Dashboard is a comprehensive application designed to track, analyze, and display health data for populations. By aggregating data from various sources, it provides insightful analytics and visualizations to help understand health trends and outcomes.</p>
@@ -92,7 +92,7 @@
 <a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank"><img src="img/Go player 2.0.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-A4250E?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-A4250E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Dentcloud is an advanced application designed to manage dental appointments, patient records, medical prescriptions, and publications from dental centers.</p>
