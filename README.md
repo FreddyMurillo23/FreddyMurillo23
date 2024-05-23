@@ -60,7 +60,7 @@
 <img src="/Playstore.png" height= 35 width=100>
 </a>
 <a href="https://partiir.com/es/tiendas-virtuales-ecommerce/" target="_blank">
-<img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-Website-b92f16?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
