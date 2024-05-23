@@ -57,7 +57,7 @@
 <br>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.partiir.partiir_entrega_app&hl=es_AR&gl=US" target="_blank">
-<img src="/Playstore.png">
+<img src="/Playstore.png" height= 35 width=100>
 </a>
 <a href="https://partiir.com/es/tiendas-virtuales-ecommerce/" target="_blank">
 <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=3fFD7f">
