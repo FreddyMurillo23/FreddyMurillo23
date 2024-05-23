@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, Im <a href="https://aristi.dev">FreddyMurillo (GrougalQatal)</a> 👋</h1>
 </div>
-<img src="img/baner principal grougalqatal.png">
+<img src="img/banner.png">
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)-->
 <!--[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)-->
@@ -35,7 +35,7 @@
 <td width="50%">
 <h3 align="center">GoPlayer App</h3>
 <div align="center">
-<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="img/Go player 2.0.jpg" width="400" alt="GoPlayer App"></a> 
+<a href="https://ligadelrey.org/seleccionar-serie" target="_blank"><img src="img/Goplayerapp.png" width="400" alt="GoPlayer App"></a> 
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=app.ai.goplayer" target="_blank">
@@ -54,7 +54,7 @@
 <br>
 <h3 align="center">Partiir Marketplace App</h3>
 <div align="center">                                       
-<a href="https://partiir.com/es/inicio/" target="_blank"><img src="img/partiir.png" width="400" alt="Partiir Marketplace App"></a>
+<a href="https://partiir.com/es/inicio/" target="_blank"><img src="img/partiirmarketplace.png" width="400" alt="Partiir Marketplace App"></a>
 <br>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.partiir.partiir_entrega_app&hl=es_AR&gl=US" target="_blank">
@@ -75,7 +75,7 @@
 <td width="50%">
 <h3 align="center">Health Dashboard</h3>
 <div align="center">
-<a href="https://github.com/FreddyMurillo23/dashboard" target="_blank"><img src="img/goplayer.png" width="400" alt="Health Dashboard"></a>
+<a href="https://github.com/FreddyMurillo23/dashboard" target="_blank"><img src="img/healthdashboard.png" width="400" alt="Health Dashboard"></a>
 <p>
 <a href="https://github.com/FreddyMurillo23/dashboard" target="_blank">
 <img src="https://img.shields.io/badge/CODE-A4250E?style=for-the-badge&logo=github&logoColor=white"height= 35 width=100>
@@ -89,7 +89,7 @@
 <td width="50%">
 <h3 align="center">DentCloud App</h3>
 <div align="center">
-<a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank"><img src="img/Go player 2.0.jpg" width="400" alt="Dentcloud App"></a>
+<a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank"><img src="img/dentcloud.png" width="400" alt="Dentcloud App"></a>
 <p>
 <a href="https://github.com/FreddyMurillo23/DentCloud" target="_blank">
 <img src="https://img.shields.io/badge/CODE-A4250E?style=for-the-badge&logo=github&logoColor=white"height= 35 width=100>
